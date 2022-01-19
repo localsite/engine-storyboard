@@ -1,0 +1,214 @@
+/* Group144 */
+p {
+margin: 0;
+}
+.pageWrapper {
+    display: flex;
+    height: 100%;
+}
+#sidebar-pageFilterPanel {
+    margin-right: 5rem;
+}
+.collapse-content.collapsed {
+    display: none;
+}
+.sidebar-clip-contents {
+overflow:hidden;
+}
+
+.sidebar-flex-col {
+display: flex;
+flex-direction: column;
+}
+
+.sidebar-flex-row {
+display: flex;
+flex-direction: row;
+}
+
+.sidebar-group-144 {
+padding: 39px 124px 364px 36px;
+box-sizing: border-box;
+border-radius: 20px 0px 0px 20px;
+background-color: rgba(245, 250, 253, 1);
+width: 307px;
+height: 982px;
+}
+
+.sidebar-logo {
+background-color: rgba(196, 196, 196, 1);
+width: 48px;
+height: 44px;
+margin-left: 12.5rem;
+margin-bottom: 75px;
+}
+
+.sidebar-frame-144 {
+margin-bottom: 47px;
+box-sizing: border-box;
+}
+
+.sidebar-my-dashboard-icon {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-142 {
+height: 26px;
+}
+
+.sidebar-txt-686 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(51, 51, 51, 1);
+word-wrap: break-word;
+}
+
+.sidebar-frame-145 {
+margin-bottom: 47px;
+box-sizing: border-box;
+}
+
+.sidebar-community-icon {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-1421 {
+height: 26px;
+}
+.sidebar-flex-col img {
+    float: left;
+}
+.sidebar-txt-565 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(164, 170, 170, 1);
+word-wrap: break-word;
+}
+
+.sidebar-frame-146 {
+margin-bottom: 47px;
+box-sizing: border-box;
+}
+
+.sidebar-home-icon {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-143 {
+height: 26px;
+}
+
+.sidebar-txt-774 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(164, 170, 170, 1);
+word-wrap: break-word;
+}
+
+.sidebar-frame-147 {
+margin-bottom: 47px;
+box-sizing: border-box;
+}
+
+.sidebar-travel-icon {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-138 {
+height: 22px;
+}
+
+.sidebar-txt-865 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(164, 170, 170, 1);
+width: 92px;
+height: 22px;
+word-wrap: break-word;
+}
+
+.sidebar-frame-148 {
+margin-bottom: 47px;
+box-sizing: border-box;
+}
+
+.sidebar-travel-icon-1 {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-139 {
+height: 22px;
+}
+
+.sidebar-txt-2110 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(164, 170, 170, 1);
+height: 22px;
+word-wrap: break-word;
+}
+
+.sidebar-frame-149 {
+margin-bottom: 47px;
+box-sizing: border-box;
+}
+
+.sidebar-food-icon {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-140 {
+height: 26px;
+}
+
+.sidebar-txt-426 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(164, 170, 170, 1);
+word-wrap: break-word;
+}
+
+.sidebar-shopping-icon {
+width: 24px;
+height: 24px;
+margin-right: 10px;
+}
+
+.sidebar-group-141 {
+height: 23px;
+}
+
+.sidebar-txt-169 {
+font-size: 16px;
+font-family: Helvetica Neue, sans-serif;
+font-weight: 700;
+line-height: 160%;
+color: rgba(164, 170, 170, 1);
+width: 87px;
+height: 23px;
+word-wrap: break-word;
+}

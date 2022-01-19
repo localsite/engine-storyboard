@@ -6,7 +6,10 @@
   align-items: center;
   justify-content: space-between;
 }
-
+.collapse-content.expanded {
+    justify-content: space-between;
+    display: flex;
+}
 svg {
   display: inline-block;
   vertical-align: top;
