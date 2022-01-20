@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const PageFilter = () => {
+export const PageFilter = () => {
     const [isCollapsed, setIsCollapsed] = React.useState(false);
     return (
         <div id="sidebar-pageFilterPanel" className={`collapse-content ${isCollapsed ? 'collapsed' : 'expanded'}`}>
